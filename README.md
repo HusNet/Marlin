@@ -1,3 +1,7 @@
+#Please use original branch
+This fork is to use with my printer with my modifications only. It will probably break on yours.
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
