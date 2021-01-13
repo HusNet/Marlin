@@ -317,7 +317,7 @@ public:
 
       #if ENABLED(SHOW_BOOTSCREEN)
         #ifndef BOOTSCREEN_TIMEOUT
-          #define BOOTSCREEN_TIMEOUT 2500
+          #define BOOTSCREEN_TIMEOUT 500
         #endif
         static void draw_marlin_bootscreen(const bool line2=false);
         static void show_marlin_bootscreen();
