@@ -172,3 +172,4 @@ __pycache__
 
 # firmware
 !.pio/build/STM32F103RC_btt/firmware.bin
+!.pio\build\STM32F103RC_btt\firmware.bin
